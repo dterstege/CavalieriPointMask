@@ -70,3 +70,4 @@ macro "batch_merge_channels"{
     }    
 }
 setOption("JFileChooser", false);
+waitForUser("Processing Complete");
