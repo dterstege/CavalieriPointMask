@@ -23,7 +23,7 @@ CavalieriPointMask was created by Dylan Terstege, a Neuroscience PhD candidate i
 
 <a name="contact"/>
 
-## 5. Contact Us
+## 3. Contact Us
 
 **Contributors:**
 - **Dylan Terstege*** (code/conceptualization/documentation) - [@dterstege](https://twitter.com/dterstege) - <dylan.terstege@ucalgary.ca>
