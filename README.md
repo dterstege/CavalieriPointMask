@@ -4,7 +4,7 @@ CavalieriPointMask
 **Cavalieri Point Mask** is an *ImageJ* Plugin which converts images of biological tissues into masks of evenly spaced binary points for the sake of applying a Cavalieri-based point-counting approach to area approximation.
 
 ![DAPImask](https://user-images.githubusercontent.com/44174532/113200335-6a4fec00-9225-11eb-948d-16ef944eff77.png)
-<sub><sup>*points not to scale*</sup></sub>
+<sub><sup>*Points not to scale - enlarged to highlight pattern*</sup></sub>
 
 CavalieriPointMask was created by Dylan Terstege, a Neuroscience PhD candidate in the Epp Lab at the University of Calgary.
 
