@@ -22,9 +22,10 @@ Cavalieri Point Mask was designed with ease-of-use at the forefront of our minds
 
 **1.1 Install *ImageJ***. Ensure that ImageJ is installed.  If it was not previously installed, it can be downloaded [here](https://imagej.nih.gov/ij/download.html).
  
-**1.2 Download CavalieriPointMask.ijm**.  Download the CavalieriPointMask.ijm file to an accessible location
+**1.2 Download CavalieriPointMask.ijm**  Download the CavalieriPointMask.ijm file to an accessible location
  
  <a name="editplug"/>
+ 
 **1.3 Check Plugin Settings**.  Check the [settings](#settings) of the plugin. If these are okay, procede to installing the program in step 1.4. If you would like to change anything, convert the .ijm file into a .txt file (this can be done by dragging and dropping the .ijm file into *ImageJ*, selecting "File > Save As..." and then saving the file as a .txt file. Within the .txt file settings can be updated. This file may then be converted back into a .ijm file by dragging and dropping it into *ImageJ* and then saving as a .ijm file.
 
 **1.4 Install Plugin in *ImageJ***.  Open *ImageJ* and select "Plugins > Install...".  Navigate to the newly downloaded CavalieriPointMask.ijm file and allow this to save to the ImageJ Plugins folder. 
