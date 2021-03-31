@@ -11,7 +11,8 @@ CavalieriPointMask was created by Dylan Terstege, a Neuroscience PhD candidate i
 | ------------- | ------------- | 
 | [1. Installation Instructions](#installation)   | How to install  |
 | [2. Image Processing Tutorial](#processing)   | How to process a sample image set  |
-| [3. Contact Us](#contact)  | Where to reach us with questions  |
+| [3. Troubleshooting](#ts)  | Common issues and how to fix them |
+| [4. Contact Us](#contact)  | Where to reach us with questions  |
 
 <a name="installation"/>
 
@@ -38,9 +39,13 @@ Cavalieri Point Mask was designed with ease-of-use at the forefront of our minds
 
 **2.3 Settings**. 
 
+<a name="ts"/>
+
+## 4. Contact Us
+
 <a name="contact"/>
 
-## 3. Contact Us
+## 4. Contact Us
 
 **Contributors:**
 - **Dylan Terstege*** (code/conceptualization/documentation/plates) - ![twitter-icon_16x16](https://user-images.githubusercontent.com/44174532/113163958-e3d3e400-91fd-11eb-8d79-17906d8d3f25.png)[@dterstege](https://twitter.com/dterstege) - ![Mail](https://user-images.githubusercontent.com/44174532/113164412-50e77980-91fe-11eb-9282-dd83852578ce.png) dylan.terstege@ucalgary.ca
