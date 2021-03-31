@@ -17,6 +17,15 @@ CavalieriPointMask was created by Dylan Terstege, a Neuroscience PhD candidate i
 
 ## 1. Installation
 
+Cavalieri Point Mask was designed with ease-of-use at the forefront of our minds.  The installation process reflects this with a simple 3-step approach:
+
+ **1.1 Install *ImageJ***. Ensure that ImageJ is installed.  If it was not previously installed, it can be downloaded [here](https://imagej.nih.gov/ij/download.html).
+ 
+ **1.2 Download CavalieriPointMask.**  Download the CavalieriPointMask.ijm file to an accessible location
+
+**1.3 Install Plugin in *ImageJ***.  Open *ImageJ* and select "Plugins > Install...".  Navigate to the newly downloaded CavalieriPointMask.ijm file and allow this to save to the ImageJ Plugins folder. 
+
+
 <a name="processing"/>
 
 ## 2. Image Processing Tutorial
