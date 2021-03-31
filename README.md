@@ -51,11 +51,11 @@ The plugin uses the following settings as default. These may need to be optimize
 - *Size of Sigma in Gaussian Blur*: "200"
 - *Area in Pixels Accounted for by Each Point*: "1156" 
 
-Searching any of these values in the txt file will show where adjustments may be made.
+Searching any of these values in the txt file will show where adjustments may be made. The plugin will then need to re-installed on *ImageJ*
 
 **2.4 Processing Images**
 
-
+With optimized settings in place and the plugin installed, you can begin processing images. This is done by selecting the plugin from the plugin tab of *ImageJ* ("Plugin > CavalieriPointMask"). You will then be prompted to navigate the plugin to the parent folder which contains your input image folder and the empty output folder. The plugin will then ask to specify which folder is which, before batching through all of the input images. Once complete, a window will populate on the screen to let you know that processing is now complete.
 
 <a name="ts"/>
 
