@@ -49,7 +49,7 @@ The plugin uses the following settings as default. These may need to be optimize
 
 - *Thresholding Algorithm*: "Triangle"
 - *Size of Sigma in Gaussian Blur*: "200"
-- *Area in Pixels Accounted for by Each Point*: "1156" 
+- *Square Area in Pixels Accounted for by Each Point*: "1156" 
 
 Searching any of these values in the txt file will show where adjustments may be made. The plugin will then need to re-installed on *ImageJ*
 
