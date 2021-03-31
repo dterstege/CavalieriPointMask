@@ -44,9 +44,21 @@ If your images are not already in this format, *ImageJ* can rapidly convert imag
 
 **2.3 Settings**. 
 
+The plugin uses the following settings as default. These may need to be optimized for particular applications.
+
+- *Thresholding Algorithm*: "Triangle"
+- *Size of Sigma in Gaussian Blur*: "200"
+- *Area in Pixels Accounted for by Each Point*: "1156" 
+
+Searching any of these values in the txt file will show where adjustments may be made.
+
+**2.4 Processing Images**
+
+
+
 <a name="ts"/>
 
-## 4. Troubleshooting
+## 3. Troubleshooting
 
 This section will be updated with issues as they are brought to my attention.
 
