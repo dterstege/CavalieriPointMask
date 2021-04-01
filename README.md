@@ -29,7 +29,7 @@ Cavalieri Point Mask was designed with ease-of-use at the forefront of our minds
  
  <a name="editplug"/>
  
-**1.3 Check Plugin Settings**.  Check the [settings](#settings) of the plugin. If these are okay, procede to installing the program in step 1.4. If you would like to change anything, convert the .ijm file into a .txt file (this can be done by dragging and dropping the .ijm file into *ImageJ*, selecting "File > Save As..." and then saving the file as a .txt file. Within the .txt file settings can be updated. This file may then be converted back into a .ijm file by dragging and dropping it into *ImageJ* and then saving as a .ijm file.
+**1.3 Check Plugin Settings**.  Check the [settings](#settings) of the plugin. If these are okay, procede to installing the program in step 1.4. If you would like to change anything, simply drag and drop the .ijm file into *ImageJ* and edit within the text window.
 
 **1.4 Install Plugin in *ImageJ***.  Open *ImageJ* and select "Plugins > Install...".  Navigate to the newly downloaded CavalieriPointMask.ijm file and allow this to save to the ImageJ Plugins folder. 
 
@@ -67,7 +67,7 @@ With optimized settings in place and the plugin installed, you can begin process
 This section will be updated with issues as they are brought to my attention.
 
 - Issue #1: *"Instead of a mask of points in the shape of the biological sample, the plugin is outputting a mask in the negative space of the image outside the bounds of the sample"*
-- Solution #1: Open the .ijm file as a .txt (for instructions on how to do this see [here](#editplug)). Find and remove the following line: 
+- Solution #1: Edit the .ijm file (for instructions on how to do this see [here](#editplug)). Find and remove the following line: 
  ```   
 "run("Invert LUT"); //toggle depending on image"
 ```
